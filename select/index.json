@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "時ノ雨、最終戦争（feat. IA）",
+  "base_artist": "Orangestar",
+  "createdAt": "2026-03-14T19:54:24.784431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "時ノ雨、最終戦争 (feat. IA)",
+      "artist": "Orangestar, IA",
+      "has_synced": true,
+      "path": "select/01_時ノ雨、最終戦争_(feat._IA)_Orangestar,_IA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "時ノ雨、最終戦争 (feat. IA)",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/02_時ノ雨、最終戦争_(feat._IA)_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "時ノ雨、最終戦争",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_時ノ雨、最終戦争_Orangestar.txt"
+    }
+  ]
+}
